@@ -1,3 +1,7 @@
+nb_env/
+__pycache__/
+*.sqlite3
+
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
